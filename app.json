@@ -43,7 +43,7 @@
     },
     "FORCE_SUB_CHANNEL2": {
       "description": "Masukan ID dari Channel Untuk Wajib Subscribenya",
-      "value": "-100"
+      "value": ""
     },
     "FORCE_SUB_GROUP": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
@@ -68,13 +68,8 @@
       "required": false
     },
     "GROUP":{
-      "description": "Masukan Username Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "mutualandluges",
-      "required": false
-    },
-    "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "nastysupportt",
+      "value": "mutualandluges",
       "required": false
     }
   },
